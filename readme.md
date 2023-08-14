@@ -5,4 +5,4 @@
 
 **Limitations**:
 * this Code is running on a cpu, it may take too much times to answer for a single question (up to 3 minutes).
-* Sometimes the answer are not accurate.
+* Sometimes the answer is not accurate.
