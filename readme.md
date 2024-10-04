@@ -1,5 +1,9 @@
 # 📚 Llama 2 Simple Question Answering System
 
+## ✨ Project Overview
+
+This project implements a simple question-answering system using the Llama 2 model, allowing users to query information from PDF documents. The system leverages natural language processing to provide answers based on the content of the uploaded PDFs.
+
 ## 📦 Usage
 
 1. **Install Necessary Packages**  
